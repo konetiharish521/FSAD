@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+form, .card {
+    background: white;
+    padding: 20px;
+    margin: 50px auto;
+    width: 320px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+button {
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 10px;
+    color: green;
+}
